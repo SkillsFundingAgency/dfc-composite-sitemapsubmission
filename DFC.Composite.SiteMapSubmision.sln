@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Composite.SiteMapSubmision", "DFC.Composite.SiteMapSubmision\DFC.Composite.SiteMapSubmision.csproj", "{9263ACEF-2508-44DE-8299-C2635E914D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Composite.SiteMapSubmision.Tests", "DFC.Composite.SiteMapSubmision.Tests\DFC.Composite.SiteMapSubmision.Tests.csproj", "{D0C9E9B4-7DCE-4A1E-B74B-1324DB1BF340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9263ACEF-2508-44DE-8299-C2635E914D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9263ACEF-2508-44DE-8299-C2635E914D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9263ACEF-2508-44DE-8299-C2635E914D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9263ACEF-2508-44DE-8299-C2635E914D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C9E9B4-7DCE-4A1E-B74B-1324DB1BF340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C9E9B4-7DCE-4A1E-B74B-1324DB1BF340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C9E9B4-7DCE-4A1E-B74B-1324DB1BF340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C9E9B4-7DCE-4A1E-B74B-1324DB1BF340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74302CEF-3389-496F-BF21-5FFF790F7044}
+	EndGlobalSection
+EndGlobal
